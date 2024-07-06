@@ -28,7 +28,7 @@ git clone https://github.com/Eryashgarg/Spam-Mail-Detector.git
 pip install -r requirements.txt
 
 3. **Run the Detector:**
-python spam_detector.py
+python Project Code.ipynb
 
 4. **Instructions:**
 - Provide email data for testing in the specified format.
